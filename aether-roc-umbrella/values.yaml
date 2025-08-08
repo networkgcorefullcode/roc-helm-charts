@@ -68,12 +68,12 @@ import:
     enabled: true
   aether-roc-gui:
     v2-0:
-      enabled: true
+      enabled: false 
     v2-1:
       enabled: true
   sdcore-adapter:
     v2-0:
-      enabled: false
+      enabled: true
     v2-1:
       enabled: true
   sdcore-prom-kafka:
